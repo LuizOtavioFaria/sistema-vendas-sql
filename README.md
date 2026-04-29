@@ -26,4 +26,4 @@ Linguagem: SQL (DDL/DML).
 
 Paradigma: Banco de Dados Relacional.
 
-Desenvolvido como parte dos meus estudos em Ciência da Computação. a
+Desenvolvido como parte dos meus estudos em Ciência da Computação. 
